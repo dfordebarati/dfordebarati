@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Debarati Seal</h1>
-<h3 align="center">An aspiring frontend developer from India</h3>
+<h3 align="center">An aspiring web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfordebarati&label=Profile%20views&color=0e75b6&style=flat" alt="dfordebarati" /> </p>
 
