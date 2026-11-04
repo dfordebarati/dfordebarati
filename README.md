@@ -1,43 +1,33 @@
-## Hi, I'm Debarati
+[![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://rishavchanda.io)
 
-Full-stack developer in Kolkata, in my final year of B.Tech IT at RCCIIT. I build web apps in Next.js, TypeScript and Supabase, and on the MERN stack. Open to internships and full-time roles.
+<h1 align="center">Hi 👋, I'm Debarati Seal</h1>
+<h3 align="center">A fourth year IT undergrad</h3>
 
-[Portfolio](https://debarati.runs-on.dev) · [LinkedIn](https://www.linkedin.com/in/debarati-seal-3604282b8) · [Résumé](https://debarati.runs-on.dev/uploads/Resume_Debarati.pdf) · [dfordebarati@gmail.com](mailto:dfordebarati@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dfordebarati&label=Profile%20views&color=0e75b6&style=flat" alt="dfordebarati" /> </p>
 
-### Work
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dfordebarati" alt="dfordebarati" /></a> </p>
 
-**[Journey Sync](https://debarati.runs-on.dev/work/journeysync)** · Full-stack developer intern at IELTS Proficiency, Jul to Sep 2025<br>
-A study-abroad startup's app and website, both built on my own. The app is a PWA in Next.js, TypeScript and Supabase with sign-in, real-time chat, payments and admin analytics, 470 unit tests in CI, and the same build running on AWS ECS Fargate. [App preview](https://journey-sync-preview.vercel.app/) · [Website](https://landing-gamma-six-15.vercel.app/)
+<p align="left"> <a href="https://twitter.com/dee_1rl" target="blank"><img src="https://img.shields.io/twitter/follow/dee_1rl?logo=twitter&style=for-the-badge" alt="dee_1rl" /></a> </p>
 
-**[Refined Gatherings](https://github.com/dfordebarati/refined-gatherings)** · Sole developer<br>
-Event booking on the MERN stack with group bookings, Razorpay payments and QR tickets. Places are claimed in one atomic update, so the last seat can't be sold twice, and Razorpay's signed webhook confirms a payment even if the guest closes the tab. [Live](https://refined-gatherings.vercel.app/)
+- 🔭 I’m currently working on [a Recipe finder website](https://github.com/dfordebarati/RecipeFinderApp)
 
-**[MedHive](https://github.com/Port-3000/MedHive-Frontend)** · Frontend developer in a team of four · Top 3 of 790+ projects at HackHazards 2025<br>
-A health assistant designed so hospitals can train AI together without sharing patient records. I built the model pages, much of the assistant's chat, the homepage and the admin dashboard. [Live](https://medhive-fl.vercel.app/)
+- 🌱 I’m currently learning **Frontend Web Development using React**
 
-**[Zenith](https://github.com/Zenith-H4B/Zenith-Frontend)** · Full-stack developer in a team of three · 4th at AIgnite 2025<br>
-A project management app where AI agents turn a requirement into tasks and assign each one to the right person. I built the landing page, the employee dashboard, the setup flow and the task and user services on MongoDB. [Live](https://zenith0.vercel.app/)
+- 📫 How to reach me **sealdebarati3@gmail.com**
 
-**[Swift Prep](https://debarati.runs-on.dev/work/swiftprep)** · Full-stack developer in a team of three<br>
-A study app that turns a syllabus into notes, flashcards, quizzes and slides. I built the admin dashboard, the layout every signed-in page shares, and the first roadmap and flashcard APIs on Gemini. [Live](https://swift-prep.vercel.app/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dee_1rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dee_1rl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debarati-seal-3604282b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarati-seal-3604282b8" height="30" width="40" /></a>
+<a href="https://instagram.com/dee_1rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dee_1rl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sealdebarati3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sealdebarati3" height="30" width="40" /></a>
+</p>
 
-**[Bug Bounty](https://github.com/dfordebarati/Debug-Website)** · Designer and developer<br>
-A Halloween website broken on purpose for GDG RCCIIT's debugging contest. Contestants found the bugs and sent the fixes as pull requests: 24 of them, from 9 contestants. [Live](https://buggy-web.vercel.app/) · [Contest repo](https://github.com/GDSC-RCCIIT/debug-quest)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Each one has a full case study on [my portfolio](https://debarati.runs-on.dev/#work).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfordebarati&show_icons=true&locale=en&layout=compact&hide=css" alt="dfordebarati" /></p>
 
-### Awards
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfordebarati&show_icons=true&locale=en" alt="dfordebarati" /></p>
 
-- Top 3 of 790+ projects, HackHazards 2025, a global hackathon with 2,900+ teams
-- 4th place, AIgnite 2025, East India's largest GenAI hackathon
-- 1st place, Software Development track, Techtrix 2025
-- Top 50 campus ambassador (#27), GirlScript Summer of Code 2024
-- Postman API Fundamentals Student Expert, and 5-star SQL on HackerRank
-
-### Community
-
-Web & Web3 associate at GDSC RCCIIT, Sep 2024 to Sep 2025. I ran technical events for around 100 people and mentored first-years through their first open-source pull requests.
-
-### Stack
-
-TypeScript · JavaScript · React · Next.js · Node.js · Express · Tailwind CSS · Supabase · PostgreSQL · MongoDB · Docker · AWS · GitHub Actions · Vitest
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfordebarati&" alt="dfordebarati" /></p>
