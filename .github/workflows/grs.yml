@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&theme=github_dark&border_color=30363d
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&disable_animations=true&theme=github_dark&border_color=30363d
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&locale=en
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&disable_animations=true
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&layout=compact&hide=css&theme=github_dark&border_color=30363d
+          options: username=${{ github.repository_owner }}&locale=en&disable_animations=true&layout=compact&hide=css&theme=github_dark&border_color=30363d
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,7 +42,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&layout=compact&hide=css
+          options: username=${{ github.repository_owner }}&locale=en&disable_animations=true&layout=compact&hide=css
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
